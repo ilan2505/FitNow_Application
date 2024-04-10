@@ -19,7 +19,7 @@ In docs directory there are the tasks in the course.
 2. Fetch latest source code from master branch.
 
 ```
-https://github.com/Jon400/FitNow.git
+https://github.com/ilan2505/FitNow_Application.git
 ```
 
 3. Run the app with Android Studio or VS Code. Or the command line:
