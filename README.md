@@ -1,3 +1,7 @@
+# Author
+Ilan Meyer Souffir
+Jonathan Boritsky
+
 # fit_now
 
 Android application developed using Flutter and Dart programming language. 
